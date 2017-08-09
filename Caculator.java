@@ -28,4 +28,8 @@ public class Calculator{
     return a/b*b;
 
   }
+
+  public static void printee(){
+    system.out.println("hello");
+  }
 }
