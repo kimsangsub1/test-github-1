@@ -24,7 +24,7 @@ public class Calculator{
     return a+b;
   }
 
-  public static int division2(int a, int b){
+  public static int division23(int a, int b){
     return a/b*b;
 
   }
