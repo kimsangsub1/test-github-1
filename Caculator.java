@@ -24,7 +24,12 @@ public class Calculator{
     return a+b;
   }
 
+<<<<<<< HEAD
   public static int multi(int a, int b){
     return a*b;
+=======
+  public static int division(int a, int b){
+    return a/b;
+>>>>>>> new
   }
 }
